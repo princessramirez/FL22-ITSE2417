@@ -60,7 +60,7 @@ public class Itse2417Main
             new FinalProj(),          // Melendez
             new FinalProj(),          // Murphy
             new FinalProj(),          // Murzayeva
-            new FinalProj(),          // Ramirez
+            new RamirezMain(),          // Ramirez
             new FinalProj(),          // Sylvester
             new FinalProj(),          // Thurman
             new FinalProj(),          // Vanslyke                                                
